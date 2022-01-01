@@ -1,9 +1,3 @@
-Name: Pragna Bhargava
-SRN: PES1UG19CS332
-'E' Section, 5th Semester
-
-FVAR Assignment - 1
-
 The scene consists of a sphere with 3 objects: cone, cylinder and a tetrahedron moving randomly inside it.
 The 3 objects rotate and move randomly inside the sphere.
 Every vertex in the model is coloured randomly.
@@ -27,8 +21,3 @@ The camera can be rotated in this case too.
 Clicking on 'w' again reverts back to the previous view.
 
 The scene is accompanied by background music too, for an immersive experience.
-
-Zip folder contains: 
-PES1UG19CS332.cpp - Code file
-PES1UG19CS332.mp4 - Video
-fvarbgmusic.wav - background music file
